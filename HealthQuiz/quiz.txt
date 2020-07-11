@@ -1,0 +1,9 @@
+0 1
+Is the cigarette harmful ?(1: Yes, harmful. 2: Don't care 3: No, not harmful 4: Don't know)
+1 4
+How often do you have breakfast ?(1: Don't eat 2: 1 to 2 days per week 3: 3 to 5 days 4: everyday)
+2 3
+How often do you excercise ?(1: Not 2: an hour a day 3: more than 2 hour a day 4: more)
+3 1
+Is smoking tend to cancer ?(1: Yes 2: Not relationship 3: No 4: Don't know)
+-1 -1
