@@ -1,0 +1,50 @@
+1101 aggressive:The diplomat took an aggressive attitude in the negotiation.
+1102 invasion:The invasion of the country was condemned internationally.
+1103 alter:Mobile phones have altered our lives in many ways. 
+1104 mature:At 14, he is more mature than most boys are at that age.  
+1105 demonstration:The engineer gave a demonstration of the new computer.
+1106 substitute:It is possible to substitute margarine for butter in the recipe.
+1107 consensus:No consensus was reached, despite a three-hour meeting.
+1108 grain:The region's agricultural products are mainly grain and cattle.
+1109 manufacture:Dozens of manufactures displayed their products at the exibition.
+1110 progressive:The president implemented a series of progressive economic policies.
+1111 separately:The couple lived separately because of the husband's job.    
+1112 tragedy:People in the country remember the tragedies of the war.
+1113 resolve:The deplopmat thought the differences could be resolved through discussion.
+1114 undertake:The lawyer undertook the extremely difficult case.
+1115 excessive:The excessive use of computers can seriously affect your eyesight.
+1116 suicide:Suicide is a huge social probrem, especially among young people. 
+1117 tide:The yacht race is dependent on the tide and wind.
+1118 halt:The earthquake brought all trains to a halt.
+1119 preserve:The company director resigned in order to preserve his firm's image. 
+1120 encounter:A tourist can encounter all sorts of difficulties.
+1121 remedy:The woman's grandmother had taught her several home remedies for colds.
+1122 satelite:Jupyter and Saturn both have a number of satelites.
+1123 glory:The athlete enjoyed the glory of becoming an Olympic champion.
+1124 steadily:The driver kept his eyes fixed steadily on the road ahead.
+1125 privillge:The country's government officials enjoy many privilages.
+1126 colleague:One of the colleagues was transferred to an overseas branch.
+1127 constitute:Women constitute a small percentage of engineering student.
+1128 contrary:Far from being disappointed, on the contrary, the man was delighted.
+1129 chaos:The peaceful demonstration turned into chaos when the police arrived.
+1130 clay:The engineers made a clay model of their new car. 
+1131 indirect:The interviwer's quiestioning style was indirect.
+1132 faint:The room was painted in a faint blue.
+1133 invest:The banker invested all her retirment money in government bonds.
+1134 scarcely:Because of the storm, there was scarcely anyone outside.
+1135 nowadays:Nowadays, computers are smaller and faster than ever before.
+1136 illustrate:The teacher illustrated her point with examples from her own personal experience.
+1137 neutral:The legislator took a neutral position on the foreign policy.
+1138 steep:The slope of the mountain was very steep.
+1139 implement:The board of directors decided to implement a new investment plan.
+1140 combat:International corporation is necessary to combat terrorism.
+1141 wisdom:The exchange student had the wisdom to follow local customs.
+1142 fierce:Gorillas look fierce, but in fact they are gentle and shy creature.
+1143 discharge:The factory began to discharge dangerous chemicals into the air.
+1144 regardless:The hospital will stay open regardless of the typhoon.
+1145 instantly:The spokeman was instantly surrounded by the media.
+1146 inn:Some people like to stay in small inns in the suburbs.
+1147 grasp:The students could not grasp what he was trying to say.
+1148 sympathetic:The university was sympathetic to the student's financial situation.
+1149 moderate:Moderate eating habits keep you in good shape.
+1150 myth:There are many famous myths about this mountain.

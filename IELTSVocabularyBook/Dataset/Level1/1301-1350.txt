@@ -1,0 +1,50 @@
+1301 accidental:The discovery was quite accidental.
+1302 dip:The artist dipped his brush in the paint.
+1303 elementary:A course in elementary statistics wa required for first-year students.
+1304 dusty:The books were dusty with age.
+1305 honesty:The listeners were impressed by the honesty of his comments.
+1306 confront:The government needs to confront the financial crisis.
+1307 rub:The engineer rubbed the surface of the lens. 
+1308 upward:The upward movement of the lift was very slow.
+1309 chemist:A group of chemists studied the new drug. 
+1310 assert:The scientist asserted that the earth was not getting warmer.
+1311 particle:An air purifier removes dust particles from the air.
+1312 triple:A horror triple bill is playing at the cinema.
+1313 voyage:The woman to the Antarctic was long and arduous.
+1314 scholor:The woman was known as a scholar of medieval poetry.
+1315 wilderness:The village was surrounded by a great area of wilderness.
+1316 jealousy:She worked hard to overcome her jealousy towards her sister.
+1317 foam:A thick layor of foam lay on the water.
+1318 herd:Herds of bison roamed the plains.
+1319 markedly:Towards nightfall it became markedly colder.
+1320 flourish:Several ancient civilsations flourished along the river in the area. 
+1321 apt:The computer waws apt to break down from time to time.
+1322 globe:Magellan was the first explorer to circle the globe.
+1323 deed:The book described the deeds of great warriors. 
+1324 prescription:The prescription of antibiotics is not recommended in this case.
+1325 meadow:A few cows were grazing in the meadow.
+1326 headline:The article had a misleading headline.
+1327 famine:Famines are caused by many different factors.
+1328 groomy:Winters were usually wet and groomy in the region.
+1329 reservation:She made a reservation at the local restaurant.
+1330 regulate:The new government decided to regulate giambling.
+1331 calf:The calf was produced by cloning a cell.
+1332 icy:Only a few creatures can survive in the icy waters.
+1333 dive:The athlete's final dive won him the content.
+1334 limb:The poisoned limb had to be removed.
+1335 conductor:A lightning conductor was placed on the steeple.
+1336 undergraduate:The textbook was too difficult for undergraduate.
+1337 ripe:The tomatos were ripe and soft.
+1338 tomb:The tombs of the local lords lay in the church.
+1339 distribute:The teaching assistat distributed copies of the syllabus.
+1340 muddy:The waters of the river were dark and muddy.
+1341 anchor:The ship dropped anchor outside the port.
+1342 heroic:The textbook described tha army's heroic acts.
+1343 expose:You should avoid exposing your skin to too much sun.
+1344 govern:It was hard to gorvern such a huge population.
+1345 hillside:Hotels had been built on the hillside facing the sea.
+1346 seize: The official seized the boy by the collar.
+1347 web: The old barn was full of spider webs.
+1348 sting:Being stung by a bee can be dangerous.
+1349 spark:The policeian's absence sparked off rumors that he had resigned.
+1350 resemble:The butterfly closely resembles a leaf.

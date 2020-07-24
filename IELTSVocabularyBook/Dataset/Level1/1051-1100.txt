@@ -1,0 +1,50 @@
+1051 acquisition:The acquisition of a foreign language takes a lot of time.
+1052 replacement:Technology has led to the replacement of workers with machines. 
+1053 concrete:There is no concrete evidence to prove the recession is over.
+1054 burden:The man took on the burden of looking after his parents
+1055 reveal:The investigation revealed some surprising information
+1056 striking:The boy bore a striking resembalnce to his grandfather.
+1057 surprisingly:The senior workers were surprisingly open to new ideas.
+1058 retain:Many companies struggle to retain staff in this competitive market.
+1059 medieval:The English town of Penkridge has wonderful medieval architecture.
+1060 ultimate:The team's ultimate goal is an Olympic gold medal.
+1061 desperate:The police wanted to save the hostage, but the situation was desperate. 
+1062 define:It is quite difficult to define the word 'ethic'.
+1063 sole:The sole survivor of the accident was identified as the driver.
+1064 flexible:The gardener used flexible hose to water the flower beds.
+1065 charter:The charter of the United Nations was signed in 1945.
+1066 intense:The discussion during the meeting was very intense.
+1067 rational:The newspaper urged both sides to take a rational approach to the probrem.
+1068 historic:The residents were proud of living in a historic city. 
+1069 petrol:A hybrid vehicle uses both petrol and electricity.
+1070 prominent:The speaker was one of the worlsd's most prominent scientists.
+1071 acute:Police dogs have an extremely acute sense of smell.
+1072 profile:The actress was described as having a beautiful profile.
+1073 facility:The football team have moved to a new training facility.
+1074 gaze:The old couple gazed lovingly at their new grandchild.
+1075 mutual:There was a mutual understanding between the two countries.
+1076 barely:After the big trafiic accident, the driver was barely alive.
+1077 era:Much of Westen culture has its roots in the Roman era.
+1078 phenomonon:Some natural phenomena, like earthquakes, are almost impossible to predict.
+1079 superior:The new office printer is clearly superior to the old one.
+1080 namely:They faced a big probrem, namely a shortage of funds.
+1081 allowance:The govenment will increase the child allowance next year.
+1082 bulk:The writer does the bulk of her writing work on weekends.
+1083 typically:They treated us with typically American hospitality.
+1084 yield:The local soil yielded a good harvest year after year.
+1085 stake:The bulding construction started with driving a stake into the ground.
+1086 desirable:Both parties found the outcome of the negotiation desirable.
+1087 shed:Most of the trees shed their leaves in autumn.
+1088 plot:The couple bought a plot of land to grow some vegetables.
+1089 compromise:The manager and warkers agreed to a compromise.
+1090 thoroughly:The staff felt that their boss was thoroughly reliable man.
+1091 declaration:People were really happy when they heard the declaration of independence.
+1092 boundary:The river acted as boundary between the two towns.
+1093 deposit:The diver was surprised by the unnatural deposits in the river. 
+1094 acquire:The curator had spent five years acquiring a good knowledge of art history.
+1095 artificial:An artificial lake was built in the amusement park.
+1096 distinguish:It is difficult to distinguish one twin from the other.
+1097 reluctant:The new manager was reluctant to let any workers go.
+1098 physically:The man's doctor advised him to avoid physically demanding work.
+1099 persue:He left for the city to pursue his dream of becoming a journalist.
+1100 resist:The troops were unable to resist the enemy's advance.

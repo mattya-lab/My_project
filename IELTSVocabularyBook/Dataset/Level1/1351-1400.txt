@@ -1,0 +1,50 @@
+1351 hesitate:The police hesitated to take on such a large crowd.
+1352 bloom:The botanist worked to produce new blooms for gardens.
+1353 sorrow:The poor expressed his sorrow at war.
+1354 multiply:The rats rapidly multipled and spread.
+1355 physician:A committee of drew up theethical guidelines.
+1356 heal:The nurses did their best to heal the injured.
+1357 fade:Over time, memories begin to fade.
+1358 youngstar:The teacher found it hard to interest youngstars in maths.
+1359 discourage:His professor tried to discourage him from leaving university.
+1360 thrill:The explorer said he loved the thrill of discovery.
+1361 digest:Small children often find solid foods hard to digest.
+1362 weed:The chemical was mainly used to kill weeds.
+1363 suburb:As the suburbs grew, the center of town became emptier.
+1364 criticese:Many of the employees criticised the chairman's decision.
+1365 poisonous:Some poisonous mushrooms took edible to amateurs.
+1366 depart:The trains rarely departed on time.
+1367 bud:When the temperature rises, the buds begin to open.
+1368 descend:The aeroplane began to descend slowly.
+1369 cheat:The customer said the salesman had cheated her.
+1370 razor:The company patented a new kind of razor.
+1371 crawl:The wounded soldier crawled to safety.
+1372 parrot:Parrots are good at imitating human speech.
+1273 decorate:The restaurant was decorated in a Victorian style.
+1374 inherit:She inherited the family business from her father.
+1375 athlete:A group of athletes were training in the gym.
+1376 camel:The tribe still used camels when travelling.
+1377 overlook:The historian had overlooked an important piece of evidence.
+1378 stormy:The ship set off on a cold, stormy night.
+1379 explode:A terrorist bomb exploded in the marketplace.
+1380 vain:So far attempts to clone humans have been in vain.
+1381 instruct:the schoolchildren were instructed to keep off the grass.
+1382 accuse:Two of the students were accused of cheating
+1383 postpone:The conference was postponed because of a diplomatic crisis.
+1384 scout:The general sent scouts out to check the situation.
+1385 betray:The spy betrayed his country to the enemy.
+1386 crow:Some verieties of crows are endangered.
+1387 weave:The machine was designed to weave carpets
+1388 scatter:He scatterd bread around the garden for the birds.
+1389 vanish:The car drove off and vanished into the distance.
+1390 bamboo:Bamboo grows easily and very quickly in many climates.
+1391 starve:As the famine continued, many families starved.
+1392 conquer:England was conquered by the Normans in the 11th century.
+1393 accomplish:The space agency accomplished its aim of launching a rocket.
+1394 imitate:The comedian  imitated the politician's voice.
+1395 prolong:The project was prolonged by six months.
+1396 amuse:The host amused everyone with funny stories.
+1397 spite:The other boys teased the new boy out of spite.
+1398 trash:The tourists left behind a lot of trash.
+1399 embarrass:Her husband embarrassed her by getting drunk at the party.
+1400 injure:A pedestrian was injured by a falling brick.

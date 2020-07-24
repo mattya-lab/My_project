@@ -1,0 +1,50 @@
+1001 behaivior:The secretary was surprised by her colleague's selfish behaiviour.
+1002 ensure:Crew members are responsible for ensuring the safety of passengers.
+1003 extent:The athlete was unsure of the extent of his injury.
+1004 provision:The provision of school lunches is the responsibility of each local authority.
+1005 related:The finance specialist's lecture was related to investment in foreign stocks.
+1006 context:The actor felt his remark had been taken out of context.
+1007 regional:Regional economic growth is of great importance to this country.
+1008 conservative:His radical comment about women was attacked by the conservative media.  
+1009 strategy:The company has developed a strategy to build their brand.
+1010 dicipline:Cultural studies is an academic discipline popular among young scholars.
+1011 objective:Science is based on an objective analysis of data.
+1012 contemporary:The museum has an extensive collection of contemporary art.
+1013 inflation:The central bank is taking a more aggressive stance against inflation. 
+1014 crucial:The organisation plays a crucial role in the control of global warming.
+1015 accommodation:Many universities provide accommodation for new student.
+1016 massive:The blue whale is a truly massive mammal.
+1017 communist:After the revolution, the country became a communist nation.
+1018 cope:The station could no longer cope with the increasing number of passengers.
+1019 extensive:The company conducted extensive research to find out customer needs.
+1020 candidate:There were only three candidates for the job.
+1021 conventional:The polician is critical of conventional methods of education.  
+1022 recession:The recession has had a large impact on construction companies.
+1023 outcome:Union officials were happy with the outcome of the meeting.
+1024 federal:All businesses must pay both federal and local taxes.
+1025 ward:The city hospital has a children's ward with the 42 beds.
+1026 supreme:He achived the task through a supreme effort of will.
+1027 genuine:It is difficult to tell geniume pearls from fake ones.
+1028 widespread:Despite widespread opposition, the government raised taxes.
+1029 dispute:There is currently a labour dispute between workers and management.
+1030 numerous:The professor listed numerous examples to back up his theory.
+1031 register:Students are allowed to register for courses at different colleges.
+1032 routine:The editor made it a daily routine to read all the rival newspapers.
+1033 consistent:The student's performance was very consistent across all subjects.
+1034 concentrate:Most people find it hard to concentrate in a noisy environment.
+1035 outstanding:The scholar achieved outstanding academic success. 
+1036 economics:The professor taught economics at the university for thirty years.
+1037 protein:Protein is needed to build muscle.
+1038 chamber:The explorers opend the burial chamber inside the ancient temple. 
+1039 poll:The opinion poll showed the government was losing popularity.
+1040 approxiamately:Current reports state approxiamately 7.1 billion people live in the world.
+1041 architecture:She learned the principles of architecture in Paris.
+1042 frequency:The frequency of meeting was increased to four times a week.
+1043 unity:The team showed unity in a difficult situation.
+1044 readily:The company's salespeople are readily available to help their customers.  
+1045 heading:Chapter heading are usually printed in large type.
+1046 psychological:The doctor has been studying the psychological effects of war.
+1047 laboratory:The university laboratory specialised in stem cell research. 
+1048 headquarters:This city hosts the headquarters of many hi-tech companies.
+1049 contribute:This corporation contributes to several worthy causes.
+1050 surgery:Afternoon surgery is from 3 p.m to 7 p.m.
