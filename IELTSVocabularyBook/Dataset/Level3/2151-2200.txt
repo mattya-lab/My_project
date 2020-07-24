@@ -1,0 +1,50 @@
+2151 bypass:A new road that bypasses the twon is under construction.
+2152 textile:The shop was renowned for high-quality textile products.
+2153 notwithstanding:The difficulty of the work notwithstanding, the intern performed well.
+2154 subsidy:The farmers received a huge subsidy from the government.
+2155 geology:The student was fascinated by geology, especially volcanoes.
+2156 juvenile:The rise in juvenile crime is causing cincern.
+2157 archaeology:The study of archaeology can help us understand modern society.
+2158 evenly:The two football teams were evenly matched.
+2159 incomplete:The construction of our new building is still incomplete.
+2160 ironic:It is ironic that he became a writer as he hated reading as a child.
+2161 litter:Litter once prevented Mount Fuji from gaining World Heritage status.
+2162 breakthrough:The professor won the Novel Prize for his scientific breakthrough.
+2163 con:There are a lot of opinions, pros and cons, in the issue.
+2164 anthropology:Anthropology is basically the study of the human race.
+2165 comprise:The United Kingdom comprises England, Scotland, Wales, Northern Ireland.
+2166 resistant:Our newly developed materials are lightweight and heat-resistant.
+2167 descriptive:The novel contained many descriptive passages.
+2168 locality:There are several restaurants in the locality of the situation.
+2169 peg:The schoolchildren hung their coats on pegs.
+2170 unpredictable:The weather in the mountains is always  unpredictable.
+2171 deficiency:Some diseases are the result of a nutritional deficiency.
+2172 drastic:Drastic measures were needed to reduce the company wage bill.
+2173 tariff:The tariff on oil imports was increased by 1% last week.
+2174 secrecy:Civil servants are sworn to secrecy in their job.
+2175 scan:The MRI scan showed no signs of brain damage.
+2176 recipient:Around three quaters of welfare recipients in this area are families with children.
+2177 polar:The polar icecap is diminished possibly because of global warming.
+2178 crust:Earthquake experts discussed the recent movement of the earth's crust.
+2179 flush:Children in the nursely school sometimees forgot to flush the toilet.
+2180 atmospheric:Atmospheric pressure is affected by weather conditions.
+2181 coincide:The demonstration was planned to coincide with the conference on global warming.
+2182 spacious:The new apartments were bright and spacious.
+2183 tricky:Diplomats were able to negotiate a peaceful solution to a tricky situation.
+2184 ashore:Many items from the sunken ship were washed ashore.
+2185 skeleton:The scholor has been studying the muscles and skeleton of the dinosaur.
+2186 induce:Skilful talking can sometimes induce concessions from opponents.
+2187 slump:The value of real estate slumped during the recession.
+2188 spouse:Spouse and partners are welcome to attend the company Christmas party.
+2189 collision:The two cars were involved in a collision.
+2190 finite:The earth's natural resouces are finite.
+2191 responsive:The doctor was responsive to his patients's needs.
+2192 imagery:The thesis concerned Shakespeare's use of animal imagery.
+2193 hybrid:The percel delivery service company introduced 3,000 hybrid vehicles. 
+2194 outgoing:Outgoing mail is no longer screened by the police in the country.
+2195 peninsula:The Izu peninsula is renowned for its natural beauty.
+2196 query:The comapny website contained a query page for customers.
+2197 cater:Our on-demand educational TV programs are catering for young viewers.
+2198 haul:Several trucks were required to haul the equipment to the port.
+2199 prop:The man used a shoe to prop the door open.
+2200 rim:The auctioneer noticed a chip on the rim of the antique wine glass.

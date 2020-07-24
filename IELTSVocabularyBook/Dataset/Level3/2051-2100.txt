@@ -1,0 +1,50 @@
+2051 adverse:The prime minister always shows her best qualities under adverse circumstances.
+2052 entity:A company and its subsidiaries are usually treated as a single entity.
+2053 usage:The old car had been through years of rough usage.
+2054 precision:In this process precision is far more important than speed.
+2055 corps:The young American was a Peace Corps volunteer teaching English in Vietnam.
+2056 compatible:The project was not compatible with the philosophy of the company.
+2057 intake:The patient was asked to reduce his alchol intake.
+2058 aesthetic:His aestetic sense as a photographer was influenced by his father.
+2059 array:There was a vast array of products on display.
+2060 mercury:In the past, mercury was used in thermometers.
+2061 offset:The construction company planted trees to offset carbon emissions.
+2062 serial:The author has been writing a serial novel for the magazine.
+2063 disastrous:We have never experienced such a disastrous tornado before.
+2064 incorporate:They were unable to incorporate all the workers into the new team.
+2065 practitioner:The old doctor was the only general practitioner in the village.
+2066 sovereign:A nation has sovereign right to protect its borders.
+2067 coherent:The professor's argument was very coherent and easy to understand.
+2068 arbitrary:The arbitrary decision-making of management angered the workers.
+2069 dilemma:The investor faced the dilemma of the weather or not to buy that stock.
+2070 occurrence:Proper brushing helps reduce the occurrence of tooth decay.
+2071 formidable:Climbing Mount Everest is a formidable challenge.
+2072 clarity:The musician explained his philosophy with utmost clarity.
+2073 fury:The company president hit the table in a fury.
+2074 weird:The rock group dressed in a weird way to attract attention.
+2075 legacy:The legacy of Adam Smith continues to this day.
+2076 specimen:The biologist collected many animal specimen.
+2077 axis:The Earth rotates on its axis.
+2078 incidentally:Incidentally, could you meet for tea tomorrow?
+2079 pulse:Intense exercise causes the pulse rate to increase. 
+2080 spontaneous:Examinees need to make a quick, spontaneous response.
+2081 facilitate:The Internet has facilitate the establishment of international betworks.
+2082 enforce:The school committe enforced the new rules.
+2083 marsh:Several ducks could be heard quacking on the marsh.
+2084 meaningful:The ambassadors said their meeting had been meaningful and positive.
+2085 intervene:The manager was told not to intervene in other teams'work.
+2086 versus:Everybody is looking forward to the England versus Scotland match.
+2087 hanitat:Clear-cutting forests has reduced the natural habitats of many spiecies.
+2088 aviation:The pilot retired from the aviation industry in 1996. 
+2089 freight:The train line was constructed purely for transportation of freight.
+2090 overlap:There is some overlap in content between the two websites.
+2091 warehouse:The company has alot of extra stock in its werehouse.
+2092 forestry:Forestry is an important field of envorinmental protection.
+2093 reed:The alligator made a nest among the reeds.
+2094 spine:The actor damaged his spine by falling from a horse.
+2095 literacy:Improving child leteracy is a key government target.
+2096 riot:There were race riots in this area in the 1960s.
+2097 embrace:We must embrace new technologies, or we'll be left behind.
+2098 brocher:The holiday brocher was very glossy and impressive.
+2099 fringe:The factor is located on the eastern fringe of the city.
+2100 supposedly:The man is supposedly the greatest fotballer ever.

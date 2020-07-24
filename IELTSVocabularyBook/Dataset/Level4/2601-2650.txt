@@ -1,0 +1,50 @@
+2601 trolley:The lady filled her shopping trolley with the food. 
+2602 prototype:The prototype of the product was designed last year.
+2603 dementia:This facility specialises in the treatment of smile dementia.
+2604 susceptible:Children are especially susceptible to colds this time of year.
+2605 sinister:The police uncovered a sinister plot to overthrow the government.
+2606 proximity:Her family all live in close proximity to each other.
+2607 acoustic:The accident affected the acoustic ability of one of his ears.
+2608 poised:The local football team is poised to win the championship.
+2609 rigorous:All medicines are subjected to rigorous tests before approval.
+2610 diabetes:It is true that many overweight people suffer from diabetes.
+2611 asthma:Asthma causes many people to have severe breathing difficulties.
+2612 haven:The Cayman Islands is a well-known offshore tax haven.
+2613 impetus:The failure provided the impetus for a new approach.
+2614 lethal:Some serious criminals are put to death by lethal injection.
+2615 radius:The circle has a radius of 15 centimeters.
+2616 intrinsic:Language is intrinsic to human being.
+2617 swap:The players swapped thier uniforms with their opponents.
+2618 drought:The summer drought lasted for several weeks this year.
+2619 millitant:The union members gradually became more millitant.
+2620 incompatible:Freedom of information is sometimes incompetible with the right to privacy.
+2621 mandate:The rule mandates that test takers present a valid passport.
+2622 elusive:Dark matter is the most elusive substance of all.
+2623 sensory:The brain interprets sensory information to perceive reality.
+2624 glossy:The company created a glossy brochure for publicity purposes.
+2625 corporal:Many countries have banned corporal punishment in schools.
+2626 generic:Cheddar is a generic term for a number of cheeses.
+2627 muscular:The muscular actor became the governor of California.
+2628 outrageous:Many people were surprised by his outrageous behaviour. 
+2629 legion:This football team has legions of supporters.
+2630 paramount:Freedom of speech is of paramount importance in the country.
+2631 terrain:The terrain of Hokkaido is more hilly than mountains.
+2632 tangible:The project was dissolved without producting any tangible results.
+2633 definitive:The judge issued a definitive ruling on the case.
+2634 parameter:Various parameters determined the outcome of the policy.
+2635 kidney:The kidney have the function of filtering the blood.
+2636 imperative:It is imperative that all workers refrain from smoking here.
+2637 fatty:The cook cut off the fatty meat before cooking the chicken.
+2638 geometric:Many cave painting are decorated with strange geometric shapes.
+2639 underway:The construction of the highway is underway.
+2640 predator:Most predators prefer to eat living prey.
+2641 periodic:The machine suffered from periodic breakdowns.
+2642 rectangular:The diamond ring was placed in a rectangular gift box.
+2643 granite:The sculupter had been carved from a block of granite.
+2644 repertoire:The opera singer has a large repertoire of sings.
+2645 temporal:The temporal lobe is one of the brain's four lobes.
+2646 rig:A temporary bridge was rigged up across the river.
+2647 paradigm:The government's radical policies brought about a paradigm shift.
+2648 deter:The stormy weather did not deter us from going out.
+2649 manipulate:The police were accused of manipulating the witness.
+2650 pointless:It is pointless to keep fighting when you know you can't win.

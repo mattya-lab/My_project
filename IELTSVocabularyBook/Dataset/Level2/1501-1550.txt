@@ -1,0 +1,50 @@
+1501 relevant:The judge decided that the evidence was not relevant to the case.
+1502 whereas:Some people prefer e-mail, whereas others prefer face-to-face communication.
+1503 hence:The chairman was sick yesterday, hence his absence at the meeting.
+1504 pension:People start receiving pensions at the age 60 in the country.
+1505 equivalent:Business studies are not equivalent to real business experience.
+1506 virtually:The war left the country virtually bankrupt.
+1507 sequence:The team won a sequence of ten matches.
+1508 revenue:The government introduced several mearsures to increase tax revenue.
+1509 voluntary:The man's work at the homeless shelter was voluntary.
+1510 lifespan:Most cicadas have a lifespan of about a week.
+1511 subsequently:The artist's house was subsequently turned into a memorial.
+1512 initiative:The team leader took the initiative to resolve his team 's probrem.
+1513 comprehensive:The government is conducting a comprehensive review of the expenditure,
+1514 adequate:One difficulty was obtaining an adaquate water supply. 
+1515 enquiry:The customer made an enquiry concerning the company policy.
+1516 regim:Regim change is not acceptable as a reason for war.
+1517 scope:A full explanation of the probrem is beyond the scope of this paper.
+1518 personal:The company is planning to increase its sales personnel by 15%.
+1519 respectively:The volunteers were aged 35 and 40 respectively.
+1520 alongside:The American president stood alongside the Spanish King.
+1521 presumably:The engine was fine so the probrem presumably lay elsewhere. 
+1522 earnings:It is the taxpayer's duty to declare their total earnings.
+1523 statistics:Statistics show that more people are living alone than before.
+1524 ownership:The ownership of the bus company moved to the privete sector.
+1525 duke:The brothers of a king are traditionally made dukes.
+1526 perspective:From the doctor's perspective, it was time to operate.
+1527 clinical:The medicine was tested in a number of clinical trials.
+1528 theoretical:The professor conducted a theoretical analysis of the probrem.
+1529 residential:It was the most expensive residential are in the town.
+1530 certificate:A medical certificate is necessary for a medical leave. 
+1531 turnover:The company's turnover increased 10% in a year.
+1532 futhermore:The translation was late;futhermore, it was inaccurate.
+1533 considerably:The price of corn has gone up considerably.
+1534 ratio:In the country, men outnumber women by a 2:1 ratio.
+1535 variable:The scientific experiment involved many variable.
+1536 unemployed:He has been unemployed for a year.
+1537 structural:The building had significant structual damage after the earthquake. 
+1538 deliberately:The salesperson made a deliberately low estimate to get the business.
+1539 assess:Inspectors were sent in to assess the financial status of the company.
+1540 expertise:Expertise in a specific field can be an advantage. 
+1541 collective:The ministers took collective responsibility for their decision.
+1542 binding:The two countries signed a binding agreement.
+1543 premier:The president stayed in the city's premier hotel.
+1544 equation:Einstein developed many famous equations during his lifetime.
+1545 sophisticated:The restaurant's Italian decor was very sophisticated.
+1546 natably:We have many projects in Asian countries, notably Vietnam and Thailand.
+1547 deficit:The finance minister promised to control the government's deficit.
+1548 agenda:Food security is high on the agenda of many governments.
+1549 indication:There was no indication that the vice-president would quit the company. 
+1550 valid:All participants must show valid identification before entering the conference room.

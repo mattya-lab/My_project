@@ -1,0 +1,50 @@
+1651 applicant:The job advertisement attracted fifty applicants.
+1652 certainty:The test result could not be predicted with certainty.
+1653 crude:Always be polite, and do not use crude language.
+1654 prospective:Universities try to attract prospective students by using social media.
+1655 clash:One person was injured in the armed clash between rival groups.
+1656 objection:The attorney raised an objection in court.
+1657 diverse:London is a very diverse city with an international population.
+1658 lorry:The goods were transported from Germany to Italy by lorry.
+1659 solar:Solar panel roofing has become more popular recently.
+1660 criterion:Sales figures were the main criterion used to judge performance.
+1661 inherent:We tend to jugde phenomena by standards inherent to our own culture. 
+1662 incentive:Promotion can be an incentive to harder work.
+1663 selective:Customers for luxury goods tend to be very selective.
+1664 nonetheless:The committee had some criticisms but nonethekess  approved the proposal.
+1665 ridge:The hikers walked carefully along the mountain rigde.
+1666 counsel:The career officer counseld students on how to find work.
+1667 feedback: The documentary programme received positive feedback from the viewers.
+1668 handicap:The applicant's lack of experience was a major handicap.
+1669 continuity:Brand continuity is important for any business.
+1670 diameter:The crater of the volcano has a diameter of 3.5km. 
+1671 faculty:Dogs have a highly developed faculty of smell.
+1672 competent:The new manager of the sales team is highly competent.
+1673 persistent:The city's persistent efforts to host the Olympics finally paid off. 
+1674 probe:Some birds use sticks to probe the ground for insects.
+1675 gravity:The law of glavity was Isaac Newton's greatest discovery. 
+1676 exploits:The company was accused of exploting immigrant workers.
+1677 obscure:The reporters were frustrated by the politician's obscure answers.
+1678 comparatively:In recent years, the status of women has become comparatively better. 
+1679 leaflet:The environmental activists handed out leaflets outside the station.
+1680 orthodox:Both orthodox and new methods of teaching should be used.
+1681 intimate:The two actors have had an intimate friendship for years.
+1682 warrant:The police showed the suspect the arrest warrant
+1683 motorway:The motorway can get extremely crowded in the holiday season.
+1684 blast:As the children left the building, a blast of icy air hit them.
+1685 ethical:The president felt trading with a dictatorship was not ethical.
+1686 costly:This space rocker was considered too costly for development.
+1687 eliminate:The government's objective was to eliminate waste.
+1688 utility:Public telephones are of little utility today.
+1689 mainland:The travellers took a ferry from the mainland to the island.
+1690 realm:The scholar became famous in the realm of art history.
+1691 offshore:The offshore oil platform explosion was an environmental disaster.
+1692 innovative:Many guests liked the innovative design of our new office.
+1693 mould:The scluptor moulded wax into the form of a bird.
+1694 foul:Residents complained about the foul water in the lake.
+1695 queue:There was a long queue at the ATM.
+1696 patent:The company secured a patent for its vacuum cleaner design.
+1697 grammatical:The report was filled with grammatical errors.
+1698 prestige:The literary award carries great prestige.
+1699 cape:The Portuguese reached the Cape of Good Hope in 1488.
+1700 sideways:Thousands of crabs walked sideways along the beach.
